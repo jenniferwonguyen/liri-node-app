@@ -10,7 +10,7 @@ Use ```npm init -y``` to initialize a package.json file. If you fail to initiali
 
 # What each command should do:
 
-**Retrieves song information for a track. If track is undefined, song defaults to "The Sign" by Ace of Base.**
+###### Retrieves song information for a track. If track is undefined, song defaults to "The Sign" by Ace of Base.
 ```
 spotify-this-song
 ```
@@ -23,7 +23,7 @@ Spotify Default
 
 
 
-**Retrieves movie information for a movie. If no movie is undefined, movie defaults to "Mr. Nobody".**
+###### Retrieves movie information for a movie. If no movie is undefined, movie defaults to "Mr. Nobody".
 ```
 movie-this
 ```
@@ -35,7 +35,7 @@ OMDb Default
 ![movie-thisdefault](https://user-images.githubusercontent.com/46514256/53213995-862d4080-3610-11e9-9682-b5552a79d035.png)
 
 
-**Retrieves venue location and date of event for a concert.**
+###### Retrieves venue location and date of event for a concert.
 ```
 concert-this
 ```
@@ -44,7 +44,7 @@ Bands in Town
 ![concert-thismaroon5](https://user-images.githubusercontent.com/46514256/53214314-c3de9900-3611-11e9-84cc-c2ecfb693146.png)
 
 
-**Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI’s commands.**
+###### Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI’s commands.
 ```
 do-what-it-says
 ```
